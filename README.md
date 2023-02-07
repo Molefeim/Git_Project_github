@@ -16,6 +16,8 @@ new york city.csv
 chicago.csv
 washington.csv
 
+download the csv files [here](https://video.udacity-data.com/topher/2018/March/5aab379c_bikeshare-2/bikeshare-2.zip)
+
 ### Project Submission
 The developed CLI program allows the user to explore an US bikeshare system database and retrieve statistics information from the database.
 
